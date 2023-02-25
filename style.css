@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(54, 52, 52);
+}
+h1{
+    text-align: center;
+    color: rgb(255, 38, 0);
+}
+.buttons{
+    text-align: center;
+    padding: 1em;
+}
+button{
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+button:hover{
+    background-color: rgb(87, 87, 87);
+}
+.container{
+    background-color: white;
+    display: grid;
+    width: 80vh;
+    height: 70vh;
+    border:rgb(255, 38, 0) solid 20px;
+    margin: auto;
+}
